@@ -5,7 +5,7 @@ These 4 projects were completed over the span of a quarter (10 weeks) at UCLA.
 ## Project 1
 Text-based game in which user tries to kill all "rabbits" on the board.
 
-Concepts Involved: Dynamic Programming, Object-Oriented Programming, and Linkers
+Concepts Involved: Dynamic Memory Allocation, Object-Oriented Programming, and Linking
 
 
 ## Project 2
@@ -17,7 +17,7 @@ Concepts Involved: Linked Lists, Structs, Nodes, Copy Constructors, and Assignme
 ## Project 3
 An actual game of Mario involving sound and visual effects.
 
-Concepts Involved: Dynamic Programming, Object-Oriented Programming, and Effective Object-Oriented Software Construction
+Concepts Involved: Memory Management, Object-Oriented Programming, and Effective Object-Oriented Software Construction
 
 
 ## Project 4
